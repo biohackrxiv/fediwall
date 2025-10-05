@@ -2,7 +2,7 @@
     "servers": [
       "mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social",
       "genomic.social", "mstdn.science", "social.edu.nl", "fosstodon.org",
-      "nfdi.social", "hachyderm.io", "ecoevo.social", "scicomm.xyz", "video.edu.nl"
+      "nfdi.social", "hachyderm.io", "ecoevo.social", "scicomm.xyz"
     ],
     "tags": [
       "BH25JP", "BH25EU", "BH25DE", "CMUDNA25", "SWAT4HCLS25",
