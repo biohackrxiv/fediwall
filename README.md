@@ -1,4 +1,4 @@
-# MetSoc2025 Fediwall
+# BioHackrXiv Fediwall
 
 This is a fork for the MetSoc2025. Below is the original README:
 
