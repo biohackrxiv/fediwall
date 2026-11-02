@@ -1,8 +1,8 @@
 {
     "servers": [
-      "mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social",
+      "mastodon.social", "fedi.buzz", "fediscience.org",
       "genomic.social", "mstdn.science", "social.edu.nl", "fosstodon.org",
-      "nfdi.social", "hachyderm.io", "ecoevo.social"
+      "hachyderm.io", "ecoevo.social"
     ],
     "tags": [
       "BioHackEU25", "BH25DE", "SWAT4HCLS25",
